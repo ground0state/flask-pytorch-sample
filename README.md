@@ -1,1 +1,5 @@
 # flask-pytorch-sample
+
+Flaskを使用してPyTorchのモデルをデプロイするサンプル。
+
+Pythonコンテナを使用してgunicornとFlaskでサーバを構築。REST APIを意識して、ファイル送信はformではなくBase64エンコードで送受信する。

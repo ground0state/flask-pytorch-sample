@@ -1,0 +1,8 @@
+numpy
+pillow
+flask
+flask_cors
+requests
+torch
+torchvision
+gunicorn
